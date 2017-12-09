@@ -1,0 +1,10 @@
+body {
+	min-width: 300px;
+}
+div {
+	margin: 0% 5% 5% 5%;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
